@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 I study Data Science in college
 - 🔐 I work on application security (LockDown Browser team)
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 `Python` `Java` `SQL` `R` `PHP`
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📂 Academic & Personal Projects
+##  Academic & Personal Projects
 
 - 📈 House Price Prediction with Linear Regression (R)
 - 🏠 Real Estate Data Analysis in Java (OOP + CSV)
