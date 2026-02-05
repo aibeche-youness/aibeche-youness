@@ -1,79 +1,62 @@
-<!--## Hi there 👋
+# 👋 Hi, I'm Younes Aibeche
 
-<!--
-**aibeche-youness/aibeche-youness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there 👋 I'm Younes Aibeche
-
-🎓 Data Science Student | 🔐 Security Enthusiast | ☁️ Cloud & Databases | 💻 Developer
+🎓 Computer Science & Data Science Student  
+💻 Data Scientist | Software Developer | Security Enthusiast  
+📊 Turning data into decisions & code into solutions  
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- 🎓 I study Data Science in college
-- 🔐 I work on application security (LockDown Browser team)
-- ☁️ I build cloud projects with AWS (EC2, RDS, S3, Load Balancer)
-- 🗄️ I design advanced databases (SQL Server, MongoDB)
-- 📊 I love data analysis, machine learning and visualization
+I am passionate about **Data Science**, **Machine Learning**, **Software Engineering**, and **Cybersecurity**.  
+I love building real-world projects that combine **data, algorithms, and systems** to solve complex problems.
 
----
-
-## 🧠 Currently Learning
-
-- Machine Learning & Neural Networks
-- Advanced SQL & Database Optimization
-- Web Security (OWASP, ZAP, Docker labs)
-- Cloud Architecture on AWS
-- Mathematics for Data Science
+- 🔍 Strong in Data Analysis & Predictive Modeling  
+- 🧠 Machine Learning & AI Enthusiast  
+- 🛠️ Full-stack problem solver (from database to UI)  
+- 🔐 Interested in Web & Application Security  
+- 📚 Continuous learner aiming for industry-level expertise  
 
 ---
 
-##  Tech Stack
+## 🧰 Tech Stack
 
-**Languages**
-`Python` `Java` `SQL` `R` `PHP`
+### 👨‍💻 Programming Languages
+`Python` 🐍 | `Java` ☕ | `R` 📈 | `SQL` 🗄️ | `C++`
 
-**Databases**
-`SQL Server` `MongoDB` `MySQL`
+### 📊 Data Science & AI
+`Pandas` | `NumPy` | `Scikit-learn` | `TensorFlow` | `Matplotlib` | `Seaborn`
 
-**Cloud & Tools**
-`AWS` `Docker` `GitHub` `Power BI` `Tableau`
+### 🗃️ Databases
+`MySQL` | `SQL Server` | `MongoDB`
 
-**Security**
-`OWASP ZAP` `Web Vulnerability Analysis`
+### ☁️ Cloud & DevOps
+`AWS (EC2, S3, RDS, Load Balancer)` | `Docker`
 
----
+### 📈 Data Visualization
+`Power BI` | `Tableau`
 
-##  Academic & Personal Projects
-
-- 📈 House Price Prediction with Linear Regression (R)
-- 🏠 Real Estate Data Analysis in Java (OOP + CSV)
-- 📚 University Library Management System (SQL Server)
-- ☁️ Employee Directory Web App on AWS
-- 🧠 Neural Network for Building Energy Efficiency (Python)
-- 🔎 Web Security Analysis with OWASP Juice Shop
+### 🔐 Security Tools
+`OWASP ZAP` | Secure coding practices | Vulnerability analysis
 
 ---
 
-## 📫 How to reach me
+## 📌 What I’m Working On
 
-- GitHub: https://github.com/aibeche-youness
-- LinkedIn: *(add your link here)*
+- 📊 Advanced Data Science projects  
+- 🤖 Machine Learning models for prediction  
+- 🗄️ Database systems & optimization  
+- ☁️ Cloud deployments on AWS  
+- 🔐 Application security analysis  
 
 ---
 
-## ⚡ Fun fact
+## 📈 GitHub Stats
 
-I like understanding how systems work internally — from databases to security to AI.
+```text
+📁 Projects focused on:
+• Data Science
+• Machine Learning
+• Databases
+• Cloud Computing
+• Security
